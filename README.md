@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34864697/README.md)
 # QuickCustomizer
 
 A lightweight, client-side wardrobe and profile customizer mod for **Among Us** (BepInEx IL2CPP). Change your colors, hats, visors, skins, pets, nameplates, and display name on the fly using a clean in-game menu or quick chat commands—complete with automatic saving and Fortegreen support!
